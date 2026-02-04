@@ -1,12 +1,3 @@
-🎨 Matching Design:
-
-✅ Dark purple gradient background (#0a0e27)
-✅ Purple accent colors (#8b5cf6, #a78bfa)
-✅ Same card styles and animations
-✅ Consistent typography (Outfit font)
-✅ Identical button styles and hover effects
-✅ Matching KPI cards with gradient borders
-
 📊 Google Sheets Integration:
 
 ✅ Connect Google Sheets option on upload screen
